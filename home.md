@@ -1,8 +1,3 @@
----
-title: "FxGen Studio"
-permalink: /
-layout: default
----
 
 # About
 FxGen Studio is a small independent game studio founded by one guy and decided to make their own. 
@@ -11,7 +6,7 @@ FxGen Studio is a small independent game studio founded by one guy and decided t
 
 Sanxion remake
 
-![Sanxion remake](assets/sanxion_cover.png)
+![Sanxion remake](/assets/sanxion_cover.png)
 
 # Join Us
 
@@ -19,4 +14,4 @@ Sanxion remake
 
 Follow FxGen Studio on social networks to get news and talk with the community.
 
-![https://discord.gg/66kczRpJ](assets/discord_logo.png)
+![https://discord.gg/66kczRpJ](/assets/discord_logo.png)
