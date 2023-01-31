@@ -1,0 +1,53 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog',     url: 'blog'}
+- {name: 'About',    url: 'about'}
+- {name: 'Contact',  url: 'contact'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Sanxion Remake',   url: 'proj-1'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter',   link: 'https://twitter.com/procfxgen'}
+- {icon: 'discord',   link: 'https://discord.gg/sPsxex6S'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'FxGen Studio portfolio powered by Jekyll and GitHub Pages '
+  rel-author: ''
+  rel-publisher: ''
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''

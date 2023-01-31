@@ -1,7 +1,12 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+# Build settings
 
-title: FxGen Studio
-logo: http://www.fxgenstudio.com/assets/fxgenstudiologo.png
-show_downloads: false
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "FxGen Studio"
+description: "FxGen Studio is a small independent game studio founded by one guy and decided to make their own."
+author:      "Johann Nadalutti"
