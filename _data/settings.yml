@@ -11,7 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Sanxion Remake',   url: 'proj-1'}
+- {name: 'Voxel Color',   url: 'proj-voxelcolor'}
+- {name: 'Sanxion Remake',   url: 'proj-sanxion'}
 
 #-------------------------------
 # Contact Section
@@ -42,7 +43,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: 'G-526PK0BRW2'
 
 #-------------------------------
 # Disqus Section
