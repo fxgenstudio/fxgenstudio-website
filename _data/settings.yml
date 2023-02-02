@@ -19,10 +19,10 @@ projects:
 
 social:
 - {icon: 'twitter',   link: 'https://twitter.com/procfxgen'}
-- {icon: 'soundcloud',   link: 'https://discord.gg/sPsxex6S'}
+- {icon: 'discord',   link: 'https://discord.gg/sPsxex6S'}
 
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine' / 'discord'
 
 #-------------------------------
 # SEO Section
