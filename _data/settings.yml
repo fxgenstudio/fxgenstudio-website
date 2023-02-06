@@ -20,10 +20,9 @@ projects:
 social:
 - {icon: 'twitter',     link: 'https://twitter.com/procfxgen'}
 - {icon: 'discord',     link: 'https://discord.gg/sPsxex6S'}
+- {icon: 'youtube',     link: 'https://www.youtube.com/@FxGenStudio'}
 - {icon: 'mail-dot-ru', link: 'mailto:fxgenstudio@gmail.com'}
 
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine' / 'discord'
 
 #-------------------------------
 # SEO Section
