@@ -11,6 +11,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'FxGen Procedural Texture',   url: 'proj-fxgen-texture'}  
 - {name: 'Voxel Color',   url: 'proj-voxelcolor'}
 - {name: 'Sanxion Remake',   url: 'proj-sanxion'}
 
