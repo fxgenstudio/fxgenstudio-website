@@ -22,5 +22,5 @@ At the end of each level, there are bonus stages which award the player points f
 
 # Videos
 
-[![Video 1](http://img.youtube.com/vi/3AJOAQ9Z6iM/0.jpg)](https://youtu.be/3AJOAQ9Z6iM "First Sanxion Remake level and bonus")
+[![Video 1](http://i3.ytimg.com/vi/msgO0PWVNuU/hqdefault.jpg)](https://youtu.be/msgO0PWVNuU?si=WoUgy3tC7iND0ADy "Sanxion Trailer")
 
