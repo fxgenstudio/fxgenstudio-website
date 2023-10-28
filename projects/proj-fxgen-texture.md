@@ -17,4 +17,9 @@ FxGen is completely free, released under the LGPL for libraries and GPL for edit
 I only ask for your recognition, nothing else.
 Try the library and tool, and let me know your impression.
 
-
+# Textures examples
+{% include image.html   image="projects/proj-fxgen-texture/Algae.png" %}
+{% include image.html   image="projects/proj-fxgen-texture/LavaRock.png" %}
+{% include image.html   image="projects/proj-fxgen-texture/RustyMetal.png" %}
+{% include image.html   image="projects/proj-fxgen-texture/Stones.png" %}
+{% include image.html   image="projects/proj-fxgen-texture/Woord.png" %}
