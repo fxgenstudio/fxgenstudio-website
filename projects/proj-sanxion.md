@@ -26,11 +26,11 @@ At the end of each level, there are bonus stages which award the player points f
 
 # Demo
 
-Suivez et participez au développement du jeu sur Discord !
-
-Ici :
-https://discord.gg/VKGEyBqbmt
-
-
 Démo présentée au TGS bientôt disponible ici ! 
+
+Suivez et participez au développement du jeu sur 
+[Discord](https://discord.gg/VKGEyBqbmt) !
+
+
+
 
