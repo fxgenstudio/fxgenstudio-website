@@ -13,7 +13,7 @@ menu:
 projects:
 - {name: 'FxGen Procedural Texture',   url: 'proj-fxgen-texture'}  
 - {name: 'Voxel Color',   url: 'proj-voxelcolor'}
-- {name: 'Sanxion Remake',   url: 'proj-sanxion'}
+- {name: 'Nexus Storm',   url: 'proj-nexusstorm'}
 
 #-------------------------------
 # Contact Section
