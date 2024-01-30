@@ -38,7 +38,7 @@ At the end of each level, there are bonus stages which award the player points f
 
 # Videos
 
-[![Video 1](http://i3.ytimg.com/vi/msgO0PWVNuU/hqdefault.jpg)](https://youtu.be/9HAgHUItI5A "Nexus Storm Trailer")
+[![Video 1](http://i3.ytimg.com/vi/9HAgHUItI5A/hqdefault.jpg)](https://youtu.be/9HAgHUItI5A "Nexus Storm Trailer")
 
 # Demo
 
