@@ -36,13 +36,20 @@ Nexus Storm, inspired by different Shoot'em up games (Sanxion, Battle Squadron, 
 At the end of each level, there are bonus stages which award the player points for shooting, smashing or dodging floating letters.
 
 
-# Videos
+# Trailer
 
 [![Video 1](http://i3.ytimg.com/vi/9HAgHUItI5A/hqdefault.jpg)](https://youtu.be/9HAgHUItI5A "Nexus Storm Trailer")
 
+# Screens
+
+![Image](../assets/img/projects/proj-nexustorm/screen01.png)
+
+
 # Demo
 
-Demo presented at TGS soon available here!
+Demo available soon on itch.io !
+[itchio](https://fxgenstudio.itch.io/nexus-storm)
+
 
 Follow and participate in the development of the game on
 [Discord](https://discord.gg/VKGEyBqbmt) !

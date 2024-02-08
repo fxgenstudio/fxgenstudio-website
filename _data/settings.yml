@@ -11,9 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'FxGen Procedural Texture',   url: 'proj-fxgen-texture'}  
-- {name: 'Voxel Color',   url: 'proj-voxelcolor'}
 - {name: 'Nexus Storm',   url: 'proj-nexusstorm'}
+- {name: 'Voxel Color',   url: 'proj-voxelcolor'}
+- {name: 'FxGen Procedural Texture',   url: 'proj-fxgen-texture'}  
 
 #-------------------------------
 # Contact Section
