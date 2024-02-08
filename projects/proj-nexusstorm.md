@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 'Nexus Storm'
 ---
 
 {% include image.html  image="projects/proj-nexusstorm/NexusStorm_Cover.png" %}
@@ -42,8 +41,10 @@ At the end of each level, there are bonus stages which award the player points f
 
 # Screens
 
-![Image](../assets/img/projects/proj-nexustorm/screen01.png)
-
+![Image](../assets/img/projects/proj-nexusstorm/screen01.png)
+![Image](../assets/img/projects/proj-nexusstorm/screen02.png)
+![Image](../assets/img/projects/proj-nexusstorm/screen03.png)
+![Image](../assets/img/projects/proj-nexusstorm/screen04.png)
 
 # Demo
 
