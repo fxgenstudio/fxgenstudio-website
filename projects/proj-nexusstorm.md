@@ -48,7 +48,7 @@ At the end of each level, there are bonus stages which award the player points f
 
 # Demo
 
-Demo available soon on itch.io !
+Demo available on itch.io !
 [itchio](https://fxgenstudio.itch.io/nexus-storm)
 
 
